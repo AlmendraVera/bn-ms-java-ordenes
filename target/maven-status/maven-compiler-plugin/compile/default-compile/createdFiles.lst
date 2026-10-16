@@ -1,1 +1,6 @@
+cl\duoc\bn\ordenes\repository\OrdenRepository.class
+cl\duoc\bn\ordenes\model\Orden.class
+cl\duoc\bn\ordenes\model\SeguimientoOrden.class
+cl\duoc\bn\ordenes\model\EstadoOrden.class
 cl\duoc\bn\ordenes\Application.class
+cl\duoc\bn\ordenes\model\DetalleOrden.class

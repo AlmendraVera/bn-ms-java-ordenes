@@ -1,4 +1,7 @@
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\Application.java
+C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\client\ErroresRemotos.java
+C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\client\InventarioClient.java
+C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\controller\OrdenController.java
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\exception\ApiException.java
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\exception\ManejadorExcepciones.java
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\model\DetalleOrden.java
@@ -6,3 +9,4 @@ C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\model\EstadoO
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\model\Orden.java
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\model\SeguimientoOrden.java
 C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\repository\OrdenRepository.java
+C:\Users\almen\bn-ms-java-ordenes\src\main\java\cl\duoc\bn\ordenes\service\OrdenService.java

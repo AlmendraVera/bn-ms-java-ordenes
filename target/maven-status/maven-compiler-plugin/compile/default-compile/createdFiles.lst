@@ -1,5 +1,7 @@
 cl\duoc\bn\ordenes\repository\OrdenRepository.class
+cl\duoc\bn\ordenes\exception\ManejadorExcepciones.class
 cl\duoc\bn\ordenes\model\Orden.class
+cl\duoc\bn\ordenes\exception\ApiException.class
 cl\duoc\bn\ordenes\model\SeguimientoOrden.class
 cl\duoc\bn\ordenes\model\EstadoOrden.class
 cl\duoc\bn\ordenes\Application.class
